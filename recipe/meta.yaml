@@ -40,7 +40,6 @@ outputs:
         - msgpack-numpy
         - msgpack-python
         - numpy <2
-        - super_state_machine
         - toolz
         - tqdm >=4.44
         - zict <3.0.0
